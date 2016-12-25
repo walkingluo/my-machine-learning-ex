@@ -1,2 +1,2 @@
-### machine-learning-ex by myself! ###
+# machine-learning-ex by myself!
 it is my work!
